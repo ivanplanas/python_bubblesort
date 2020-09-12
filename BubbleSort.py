@@ -14,4 +14,4 @@ for x in range(0, indexCount): #first loop / main loop
             numbers[i] = numbers[i+1]
             numbers[i+1] = temp 
 
-print(numbers) //prints bubble sorted list
+print(numbers) #prints bubble sorted list
